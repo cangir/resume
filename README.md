@@ -1,23 +1,3 @@
-# Crisp Minimal Résumé
-
-![travis](https://travis-ci.org/crispgm/resume.svg)
-![powered-by-jekyll](https://img.shields.io/badge/powered%20by-jekyll-blue.svg)
-
-<p align="center">
-  <img src="screenshots/resume-desktop.png" width="578" />
-  <img src="screenshots/resume-mobile.png" width="220" />
-</p>
-
-## Introduction
-
-[English](/README.md) [简体中文](/README_zh-CN.md)
-
-This is a responsive minimal résumé template made by Crisp, powered by [Jekyll](http://jekyllrb.com/).
-
-You may config all the data in `yaml` and make it your own résumé. Then, you might use on GitHub Pages, your website, or wherever you want.
-
-[DEMO](https://crispgm.github.io/resume/resume.html)
-
 ## Features
 
 * Simple, elegant, and minimal design
@@ -55,9 +35,6 @@ You may config all the data in `yaml` and make it your own résumé. Then, you m
     jekyll build
     ```
 
-## Gem-based Theme
-
-Gem-based version is coming soon.
 
 ## Data Format
 
@@ -109,12 +86,6 @@ FontAwesome iconfont is embedded, so use the `fa-` class name as icon. `link` is
     </div>
   </section>
   ```
-
-## Showcases
-
-Feel free to add yours here.
-
-* [David Zhang](https://crispgm.com/resume/)
 
 ## License
 
