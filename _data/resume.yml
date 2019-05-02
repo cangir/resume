@@ -1,0 +1,66 @@
+title: Ahmet Cangir's Resume
+name: Ahmet Cangir
+jobtitle: Full Stack Web Developer
+contact:
+  - icon: fa-envelope
+    text: ahmet@statixdesign.com
+  # - icon: fa-phone-square
+  #   text: your-phone-num
+  - icon: fa-globe
+    text: ahmetcangir.github.io
+    link: https://ahmetcangir.github.io
+  - icon: fa-github
+    text: ahmetcangir
+    link: https://github.com/ahmetcangir
+experience:
+  - title: Full Stack Web Developer
+    company: Freelance
+    duration: Aug 2016 - Now
+    location: Antalya
+    # description: 
+  - title: PHP Web Developer & IT Support Technician
+    company: Ministry of Interior
+    duration: Oct 2011 - Jul 2016
+    location: Mus / Turkey
+    # description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  - title: Technical Support Mentor
+    company: United Nations (MINUSTAH)
+    duration: Oct 2010 - Oct 2011
+    location: Port-au-Prince / Haiti
+    # description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  - title: PHP Web Developer & IT Support Technician
+    company: Ministry of Interior
+    duration: Oct 2009 - Jul 2010
+    location: Mus / Turkey
+    # description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  - title: Officer
+    company: Ministry of Interior
+    duration: Jun 2004 – Apr 2009
+    location: Ankara / Turkey
+    # description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+education:
+  - university: Anadolu University
+    duration: Sep 2003 - Jun 2007
+    location: Eskisehir / Turkey
+    major: Bachelor's degree, Public Administration
+skills:
+  - title: Industry Knowledge
+    items: Web Development, IT Service Management, Technical Support, Programming, Web Design, Network Administration, Information Technologies, Digital Marketing
+  - title: Tools & Technologies
+    items: jQuery, Google Webmaster Tools, Google Adwords, Adobe Photoshop, Microsoft Word, Microsoft Office, Microsoft Excel, Microsoft PowerPoint, C#, Cascading Style Sheets (CSS), HTML, HTML5, MySQL, Github, Content Management Systems (CMS), SQL, Windows, Linux, Databases
+  - title: Other Skills
+    items: 10 Finger Typing
+# projects:
+#   - name: Project Name 1
+#     description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#     contribution: Contributor.
+#   - name: Project Name 2
+#     description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#     contribution: Creator and maintainer.
+languages:
+  - name: Turkish
+    proficiency: Native or bilingual proficiency
+  - name: English
+    proficiency: Professional working proficiency
+  - name: German
+    proficiency: Elemantary proficiency
