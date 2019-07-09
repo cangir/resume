@@ -7,11 +7,11 @@ contact:
   # - icon: fa-phone-square
   #   text: your-phone-num
   - icon: fa-globe
-    text: ahmetcangir.github.io
-    link: https://ahmetcangir.github.io
+    text: cangir.github.io
+    link: https://cangir.github.io
   - icon: fa-github
     text: ahmetcangir
-    link: https://github.com/ahmetcangir
+    link: https://github.com/cangir
 experience:
   - title: Full Stack Web Developer
     company: Freelance
